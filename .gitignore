@@ -1,0 +1,13 @@
+.env
+venv/
+*.sqlite3
+*.csv
+*.xlsx
+__pycache__/
+.vscode/
+*.mp3
+*.png
+*.webp
+*.txt
+*.jpg
+*.opus
