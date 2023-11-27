@@ -1,4 +1,6 @@
-This is the GitHub repo for the Finxter Academy (Finxter.com) -- OpenAI Updates course.
+# Finxter OpenAI Updates 
+
+This is the GitHub repo for the [Finxter Academy -- OpenAI Updates](https://academy.finxter.com/university/openai-update/) course.
 
 Hi and welcome to this course on all the newest updates from OpenAI. In this tutorial series, we'll be looking at all the updated API's and functionality through practical examples.
 
